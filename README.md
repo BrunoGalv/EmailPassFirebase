@@ -1,6 +1,6 @@
 # authfirebaseapp
 
-Projeto utilizado no vídeo para demonstração dos métodos de Email e Senha do Firebase, Sign Up, Login, ForgotPass, UpdatePass.
+Projeto utilizado no vídeo https://youtu.be/mFQWCho5d98 para demonstração dos métodos de Email e Senha do Firebase, Sign Up, Login, ForgotPass, UpdatePass.
 
 ## Getting Started
 
